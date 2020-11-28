@@ -29,6 +29,14 @@ once installed, you have 2 methods to start the bot
 
 › launch the .bat which is in the wBot folder
 › go to command prompt (cmd) , and type cd (and the destination) example: C:\Users\sebas\OneDrive\Bureau\wBot then type node index.js
+
+to launch the bot on your vps, you must follow the steps below
+
+» apt-get update && apt-get upgrade -y
+» apt-get install screen
+»
+»
+»
    
     "wBot": "0.1", 
 
