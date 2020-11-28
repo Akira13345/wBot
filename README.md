@@ -16,6 +16,19 @@ then click on "Add Bot"
 now click on "copy" this will copy your bot token
 and insert it between the quotes in the settings.json
 
+now we will invite the robot to the server
+in General information in the Parameters category, you will copy the client id
+https://discord.com/oauth2/authorize?client_id=ID&scope=bot&permissions=305196094
+
+you will put it in place of "ID" on the link above
+
+to launch the bot on your computer, you need to install nodejs
+https://nodejs.org/en/
+
+once installed, you have 2 methods to start the bot
+
+› launch the .bat which is in the wBot folder
+› go to command prompt (cmd) , and type cd (and the destination) example: C:\Users\sebas\OneDrive\Bureau\wBot then type node index.js
    
     "wBot": "0.1", 
 
