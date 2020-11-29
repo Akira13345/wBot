@@ -54,6 +54,13 @@ node index.js
 </code></pre>
 <pre><code class="has-line-data" data-line-start="66" data-line-end="68" class="language-sh">apt-get install screen
 </code></pre>
+<p class="has-line-data" data-line-start="21" data-line-end="26">Screen will be used to open several linux windows simultaneously, the processes executed in Screen will continue to run when their window is closed. For example, it will allow you to run several applications (or other) on simultaneously and 24 hours a day without requiring any action on your part .<br>
+
+<p class="has-line-data" data-line-start="21" data-line-end="26">Here is some basic command<br>
+<p class="has-line-data" data-line-start="21" data-line-end="26">Soon...<br>
+
+
+</code></pre>
 <p class="has-line-data" data-line-start="68" data-line-end="69">then go to the home folder of your machine, create a folder named bot and drag the bot content there</p>
 <pre><code class="has-line-data" data-line-start="70" data-line-end="72" class="language-sh">apt-get install curl -y
 </code></pre>
