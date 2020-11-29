@@ -63,7 +63,7 @@ node index.js
 </code></pre>
 <pre><code class="has-line-data" data-line-start="79" data-line-end="81" class="language-sh"><span class="hljs-built_in">cd</span> /home/bot
 </code></pre>
-<pre><code class="has-line-data" data-line-start="82" data-line-end="84" class="language-sh"> index.js
+<pre><code class="has-line-data" data-line-start="82" data-line-end="84" class="language-sh">node index.js
 </code></pre>
 <h1 class="code-line" data-line-start=85 data-line-end=86 ><a id="Configuration_85"></a>Configuration</h1>
 <pre><code>&quot;wBot&quot;: &quot;0.1&quot;, 
