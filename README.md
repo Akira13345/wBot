@@ -52,14 +52,14 @@ node index.js
 <h1 class="code-line" data-line-start=59 data-line-end=60 ><a id="Debian_910_59"></a>(Debian 9/10)</h1>
 <pre><code class="has-line-data" data-line-start="63" data-line-end="65" class="language-sh">apt-get update &amp;&amp; apt-get upgrade -y
 </code></pre>
-<pre><code class="has-line-data" data-line-start="66" data-line-end="68" class="language-sh">» apt-get install screen
+<pre><code class="has-line-data" data-line-start="66" data-line-end="68" class="language-sh">apt-get install screen
 </code></pre>
 <p class="has-line-data" data-line-start="68" data-line-end="69">then go to the home folder of your machine, create a folder named bot and drag the bot content there</p>
 <pre><code class="has-line-data" data-line-start="70" data-line-end="72" class="language-sh">apt-get install curl -y
 </code></pre>
-<pre><code class="has-line-data" data-line-start="73" data-line-end="75" class="language-sh">» curl <span class="hljs-operator">-s</span>L https://deb.nodesource.com/setup_12.x | bash -
+<pre><code class="has-line-data" data-line-start="73" data-line-end="75" class="language-sh">curl <span class="hljs-operator">-s</span>L https://deb.nodesource.com/setup_12.x | bash -
 </code></pre>
-<pre><code class="has-line-data" data-line-start="76" data-line-end="78" class="language-sh">» apt-get install build-essential nodejs -y
+<pre><code class="has-line-data" data-line-start="76" data-line-end="78" class="language-sh">apt-get install build-essential nodejs -y
 </code></pre>
 <pre><code class="has-line-data" data-line-start="79" data-line-end="81" class="language-sh"><span class="hljs-built_in">cd</span> /home/bot
 </code></pre>
