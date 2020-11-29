@@ -40,7 +40,7 @@ once installed, you have 2 methods to start the bot<br>
 before doing this we need to install discord.js<br>
 go to command prompt (cmd) , and type</p>
 <pre><code class="has-line-data" data-line-start="45" data-line-end="48" class="language-sh"><span class="hljs-built_in">cd</span> your destination
-npm install discord.js
+npm i
 </code></pre>
 <p class="has-line-data" data-line-start="48" data-line-end="51">launch the .bat which is in the wBot folder<br>
 or<br>
