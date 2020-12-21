@@ -4,13 +4,13 @@
     "token": "insert your token here",
     "BotStatus": "I am wBot and you ?",
 
-    "welcome_channel": "welcome",
+    "welcome_channel": "id channel",
 
     "colour": "RAMDOM",
     "title": "I am a configurable title !",
     "description": "I am a configurable description \n we can also put information",
     "footer": "I am a configurable footer",
 
-    "auto_role": "member"
+    "auto_role": "id role"
 
 }
