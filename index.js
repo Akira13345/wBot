@@ -15,8 +15,8 @@ bot.on("ready", async () => {
 
 
 bot.on("guildMemberAdd", (member) => {
-  let channel = member.guild.channels.find(channel => channel.name === `${bot.settings.welcome_channel}`)
-  let autorole = member.guild.roles.find(autorole => autorole.name === `${bot.settings.auto_role}`)
+  let channel = member.guild.channels.find(channel => channel.id === `${bot.settings.welcome_channel}`)
+  let autorole = member.guild.roles.find(autorole => autorole.id === `${bot.settings.auto_role}`)
   let memberavatar = member.user.avatarURL
   
   const WelcomeMsg= new Discord.RichEmbed()
