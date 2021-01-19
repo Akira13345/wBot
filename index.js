@@ -1,6 +1,6 @@
-const Discord = require("discord.js");
+const {Client, RichEmbed} = require('discord.js');
 config = require('./settings.json')
-const bot = new Discord.Client();
+const bot = new Client();
 bot.settings = require("./settings.json");
 
 
@@ -29,8 +29,6 @@ bot.on("guildMemberAdd", (member) => {
 
   channel.send(WelcomeMsg);
   member.addRole(autorole).catch(console.error);
-
-    
 });
 
 
